@@ -1,4 +1,4 @@
-Look in the package.json for dependencies.
+package.json for dependencies.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
