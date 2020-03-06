@@ -1,0 +1,17 @@
+
+.btn-base {
+    margin: 10px;
+}
+
+.container-next {
+    align-self: flex-start;
+    justify-self: flex-start;
+    width: 100%;
+}
+
+.container-prev {
+    align-items: flex-end;
+    justify-self: flex-end;
+    width: 100%;
+}
+

@@ -1,0 +1,17 @@
+.search-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 40%;
+}
+
+.search-box {
+    width: 100%;
+    align-self: center;
+}
+
+.btn-search {
+    margin-left: 5px;
+    align-self: center;
+
+}
